@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: http://ftp.fornex.gisikw.com/sitemap.xml
